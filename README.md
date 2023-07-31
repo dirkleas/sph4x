@@ -6,6 +6,13 @@ let's get collaborating on some h4x on everything sp-404 mk2! complete python su
 
 ## roadmap
 
+1. create rich python sdk for complete midi support, supported file i/o (projects, pattern chains, patterns, settings, etc.), sample management
+1. reverse engineer app for convenient porting to mobil, web, uC, embedded, etc.
+1. firmware h4x
+1. workflows of all types from resampling, pattern sequencing, etc.. also consider meta-workflows (i.e. lead sheets/fakebooks to complete songs/albums, music for cinema, busking, live shows, improv, etc.)
+1. integrations with other gear, both hardware and software focusing on friction free, seamless, and reliable performance rigs
+
+
 
 questions? suggestions? wanna help? reach out [here](https://github.com/dirkleas/spH4x/issues) -- it's not just for issues and bugs!
 
