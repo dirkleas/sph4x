@@ -1,4 +1,4 @@
-# spH4x
+# sph4x
 
 ## workflow h4x
 

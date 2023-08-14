@@ -1,4 +1,4 @@
-# spH4x
+# sph4x
 
 ## firmware h4x
 

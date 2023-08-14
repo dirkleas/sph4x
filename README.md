@@ -1,4 +1,4 @@
-# spH4x
+# sph4x
 
 ## rationale
 
@@ -14,7 +14,7 @@ let's get collaborating on some h4x on everything sp-404 mk2! complete python su
 
 
 
-questions? suggestions? wanna help? reach out [here](https://github.com/dirkleas/spH4x/issues) -- it's not just for issues and bugs!
+questions? suggestions? wanna help? reach out [here](https://github.com/dirkleas/sph4x/issues) -- it's not just for issues and bugs!
 
 --
 
